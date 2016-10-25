@@ -1,0 +1,13 @@
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar.AddPerson.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar.LogInForm.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar.Properties.Resources.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar - Streeplijst.csproj.GenerateResource.Cache
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar - Strepen.exe
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\bin\Debug\Stambar - Strepen.exe
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\bin\Debug\Stambar - Strepen.pdb
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\bin\Debug\Intermec.Device.CF2.dll
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\Stambar - Streeplijst\obj\Debug\Stambar - Strepen.pdb

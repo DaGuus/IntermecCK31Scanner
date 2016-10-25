@@ -1,0 +1,12 @@
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\Stambar.Properties.Resources.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\Stambar.LogInForm.resources
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\bin\Debug\Stambar - Strepen.exe
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\bin\Debug\Stambar - Strepen.pdb
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\bin\Debug\Intermec.Device.CF2.dll
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\Stambar - Strepen.exe
+C:\Users\Guus - LAPTOP\Documents\Visual Studio 2005\Projects\BarcodeReader_ce\obj\Debug\Stambar - Strepen.pdb
